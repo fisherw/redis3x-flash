@@ -1,0 +1,27 @@
+{
+  "name": "redis3x-flash",
+  "version": "1.0.0",
+  "description": "flash message middleware for express which use redis session for storing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fisherw/redis3x-flash.git"
+  },
+  "keywords": [
+    "redis",
+    "session",
+    "nodejs",
+    "express",
+    "flash",
+    "message"
+  ],
+  "author": "fisher <wangjiang.fly.1989@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisherw/redis3x-flash/issues"
+  },
+  "homepage": "https://github.com/fisherw/redis3x-flash#readme"
+}
